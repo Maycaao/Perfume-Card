@@ -1,0 +1,13 @@
+:root{
+    --darkCyan: #3C8067;   
+    --cream: #F2EBE3;
+    --veryDarkBlue: #1C232B;
+    --darkGrayishBlue: #6C7289;
+    --white: #FFFFFF;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}

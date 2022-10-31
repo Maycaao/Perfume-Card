@@ -1,0 +1,15 @@
+@media (max-width: 600px){
+    .card-container{
+        flex-direction: column;
+        height: 100%;
+        max-height: 500px;
+    }
+
+    .img-container{
+        background-image: url(../Image/image-product-mobile.jpg);
+        border-radius:  8px 8px 0px 0px;
+        height: 100%;
+        max-height: 500px;
+    }
+
+}
